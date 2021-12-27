@@ -1,3 +1,13 @@
-div {
-	border: 1px solid black;
+.menu_section {
+	background-color: gray;
+	margin-bottom: 10px;
+}
+
+.section_head .section_content{
+	width: 100%;
+}
+
+.section_head {
+	font-size: 1.5em;
+	text-align: center;
 }

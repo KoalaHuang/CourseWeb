@@ -19,3 +19,9 @@ Repository for Coursera web development course
 [Module 4 Assignment](https://koalahuang.github.io/CourseWeb/mod4/)
 
 * Javascript fake namespace by IIFE (immediately invoked function expression)
+
+***
+
+[Module 5 Assignment](https://koalahuang.github.io/CourseWeb/mod5/)
+
+* Ajax, Dynamic loading and JSON to create random Specials menu

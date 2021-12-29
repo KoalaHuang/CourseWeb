@@ -16,6 +16,6 @@ Repository for Coursera web development course
 
 ***
 
-[Module 3 Assignment](https://koalahuang.github.io/CourseWeb/mod4/)
+[Module 4 Assignment](https://koalahuang.github.io/CourseWeb/mod4/)
 
 * Javascript fake namespace by IIFE (immediately invoked function expression)

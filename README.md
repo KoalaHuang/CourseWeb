@@ -13,3 +13,9 @@ Repository for Coursera web development course
 [Module 3 Assignment](https://koalahuang.github.io/CourseWeb/mod3/)
 
 * Responsive menu design using Bootstrap
+
+***
+
+[Module 3 Assignment](https://koalahuang.github.io/CourseWeb/mod4/)
+
+* Javascript fake namespace by IIFE (immediately invoked function expression)
